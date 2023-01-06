@@ -6,3 +6,5 @@ To run the program to just see simple rasterization, navigate to build folder an
 
 
 To run the program to see texture mapping execute ./run sphere.obj. This will render a white sphere. Hit 't' to texture map. Hit 'n' to see nearest neighbor texture mapping. Hit 'l' to see bilinear interpolation. Hit 'm' to see mipmapping.
+
+* note you can replace sphere.obj in the above command with the name of any obj file within the resources directory to see other shapes rendered. * 
